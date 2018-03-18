@@ -1,2 +1,2 @@
 # helloArticles
-Just playing around with Go lang
+Nothing to see here - Just playing around with Go lang
